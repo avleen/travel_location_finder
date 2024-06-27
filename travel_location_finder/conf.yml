@@ -1,0 +1,13 @@
+rules:
+    business_min_hrs: 10
+    premium_min_hrs: 6
+
+attendees:
+    - city: san francisco
+      travelers: 5
+    - city: dublin
+      travelers: 2
+    - city: madrid
+      travelers: 6
+    - city: bengaluru
+      travelers: 5
